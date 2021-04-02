@@ -1,4 +1,4 @@
-# FerbLatinTranslater
+# FerbLatinTranslator
 Ferb Latin is fun and simple to learn.
 To speak it, one must move the first letter of every word of above two letters to the end of the word and add 'erb'.
 Additional rules were stated in the song.
